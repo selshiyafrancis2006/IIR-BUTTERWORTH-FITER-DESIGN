@@ -100,10 +100,12 @@ xgrid();
 
 
 ## OUTPUT (LPF) : 
-![Uploading image.png…]()
+<img width="760" height="726" alt="image" src="https://github.com/user-attachments/assets/6dfba47a-f142-4690-bcf3-24f130cda6c9" />
+
 
 ## OUTPUT (HPF) : 
 ![Uploading image.png…]()
+
 
 
 ## RESULT: 

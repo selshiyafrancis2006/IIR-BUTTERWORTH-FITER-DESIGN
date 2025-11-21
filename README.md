@@ -104,7 +104,8 @@ xgrid();
 
 
 ## OUTPUT (HPF) : 
-![Uploading image.png…]()
+<img width="757" height="719" alt="image" src="https://github.com/user-attachments/assets/a42f6baf-0910-4feb-a4c7-7521860201dc" />
+
 
 
 
